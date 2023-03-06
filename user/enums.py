@@ -1,0 +1,4 @@
+USER_TYPE = (
+    ('RECIPIENT', 'RECIPIENT'),
+    ('ADMIN', 'ADMIN')
+)
